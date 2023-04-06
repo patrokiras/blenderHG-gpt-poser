@@ -21,8 +21,19 @@ I'll keep working on it when I have time.
 ## USAGE
 
 The app is super simple. Here's how to use it (for now)
-	1. Download the "BlenderHG-gpt-poser.py" & "GPT-Prompts-Guide.txt". Open them up with Text Editor.
-	2. In Blender, create a Human with Human Generator addon in Blender.
-	3. Select the Armature of this human, Copy and paste contents of "BlenderHG-gpt-poser.py" in your Blender Scripting Panel.
-	4. Take a look at the "GPT-Prompts-Guide.txt", and paste/modify prompts to GPT. Follow the steps in the Guide but feel free to change the exact wording. 
-	5. Paste the generated results at the bottom of "BlenderHG-gpt-poser" Script in Scripting Panel, and run it. I tested it with GPT4, it works fine, but it requires further interogation to produce more desiring rejsults.
+1. Download the "BlenderHG-gpt-poser.py" & "GPT-Prompts-Guide.txt". Open them up with Text Editor.
+2. In Blender, create a Human with Human Generator addon in Blender.
+3. Select the Armature of this human, Copy and paste contents of "BlenderHG-gpt-poser.py" in your Blender Scripting Panel.
+4. Take a look at the "GPT-Prompts-Guide.txt", and paste/modify prompts to GPT. Follow the steps in the Guide but feel free to change the exact wording. 
+5. Paste the generated results at the bottom of "BlenderHG-gpt-poser" Script in Scripting Panel, and run it. I tested it with GPT4, it works fine, but it requires further interogation to produce more desiring rejsults.
+
+
+![Alt text](img/commandExample.png)
+
+## What's next
+
+Again this is a hobby project, and in fact this is my first ever Gitbut repo. I am still navigating thru the interface lol.
+Fee free to try it out and/or fork it. Meanwhile, i will try to train with GPT API so it behaves more reasonably, and hopefully not too far from now
+### let's get it a regular Blender UI interface with text field & sliders, so it's approachable for everyone.
+
+## Have a great day!
